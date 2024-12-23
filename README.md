@@ -4,4 +4,4 @@ Aplikasi berbasis web untuk sistem klaim voucher melalui verifikasi aktivitas so
 ## Tech Stack
 - Frontend: Vue.js
 - Backend: Golang
-- Database: PostgreSQL
+- Database: PostgreSQL/MySQL
